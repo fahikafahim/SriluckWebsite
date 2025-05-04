@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -186,7 +186,7 @@
             </div>
         </div>
 
-       
+
 
         <!-- Footer -->
         <footer class="text-center p-8 text-sm text-gray-500 border-t border-gray-100 bg-white">
