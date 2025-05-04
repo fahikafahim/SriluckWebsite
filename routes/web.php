@@ -7,7 +7,7 @@ use App\Http\Controllers\ProductController;
 use App\Http\Controllers\CartController;
 use App\Http\Controllers\UserController;
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
 // Admin Dashboard Route
 Route::middleware('auth')->group(function () {
